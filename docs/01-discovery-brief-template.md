@@ -4,10 +4,11 @@ Use this file to create your one-page discovery brief for Legacy-Trust Bank.
 
 ## 1. Problem summary
 
-Write 80-120 words answering:
-- What is happening now?
-- Why is it failing at scale?
-- Why does it matter financially and operationally?
+Legacy-Trust is struggling to manage 100,000+ delinquent accounts with manual, fragmented tools. This lack of centralization causes:
+
+- Financial Leakage: 15% revenue loss from missed follow-ups and inconsistent tracking.
+- Operational Waste: Agents manually reconcile spreadsheets, relying on memory rather than data
+- Risk & Friction: High compliance risk (no audit trail) and a slow, repetitive customer experience.
 
 ## 2. Stakeholder overview
 
