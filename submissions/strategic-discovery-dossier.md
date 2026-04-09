@@ -62,12 +62,12 @@ Would you consider a clean handoff to be one where an agent is notified immediat
 
 ## 4. Traceability starter
 
-| Stakeholder concern | Likely process area affected | Possible metric or evidence source | Likely deliverable |
-|---|---|---|---|
-| Handoff quality: information loss from internal transfers | Account management | % of complete fields at handoff, count of repeat questions to customer | Automation of customer history delivery to agent; standardised handoff protocol |
-| Data integrity: Single source of truth (SSoT) | Data collection and storage (governance) | % of duplicate records, % manual entry errors, time to sync database when modified | Centralised database schema, API integration map |
-| Operational efficiency: agents tied up with low-value vases | Customer triage & self-service | % of cases handled by portal / bot, AHT for simple / complex cases (compared to before new system) | Conversation flow map for a bot - both triage and simple case work |
-| Revenue leakage: lost income from inactive account | CRM and account management | Churcn rate, recovery conversion rate (from inactive accounts), total value recovered | Automated check-in workflow, inactive account dashboard (with analysis of accounts) |
+| Stakeholder concern | Likely process area affected | Possible metric or evidence source | Likely deliverable | Evidence | Key JTBD |
+|---|---|---|---|---|---|
+| Handoff quality: information loss from internal transfers | Account management | % of complete fields at handoff, count of repeat questions to customer | Automation of customer history delivery to agent; standardised handoff protocol | TODO | |
+| Data integrity: Single source of truth (SSoT) | Data collection and storage (governance) | % of duplicate records, % manual entry errors, time to sync database when modified | Centralised database schema, API integration map | TODO | |
+| Operational efficiency: agents tied up with low-value vases | Customer triage & self-service | % of cases handled by portal / bot, AHT for simple / complex cases (compared to before new system) | Conversation flow map for a bot - both triage and simple case work | See the 7 stakeholder observations on wasted agent time, observation on recovering revenue | JTBD_4 - insight to complexity of cases and risk triggers to manage teamwork & JTBD_1 - identification of low-complexity accounts to recover revenue quickly |
+| Revenue leakage: lost income from inactive account | CRM and account management | Churcn rate, recovery conversion rate (from inactive accounts), total value recovered | Automated check-in workflow, inactive account dashboard (with analysis of accounts) | See 5 stakeholder obervations on justifying portal to board | JTBD_3 - detailed financial evidence, P&L impact and clear assumptions |
 
 ## 5. Final problem statement
 
